@@ -12,7 +12,7 @@ HAR_MEANS.csv is the summary data set containing the means of the merged data co
   - SITTING
   - STANDING
   - LAYING
-- The remaining columns are described in the source data section below.
+- The remaining columns are described in the source data section below. Each column is a mean of its respective "mean" or "std" column.
 
 ###About the Source data:
 
