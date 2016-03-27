@@ -7,7 +7,6 @@ This repository holds my programming assignment for the Getting and Cleaning Dat
 - run_analysis.R: R script file containing all the code to import and process the UCI data sets
 - CodeBook.md: markdown file describing the columns in the summary data set
 - README.md: Summary of this repo
-- 
 
 
 
