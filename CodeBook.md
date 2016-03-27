@@ -6,12 +6,12 @@ HAR_MEANS.csv is the summary data set containing the means of the merged data co
 
 - Subject: Identifies the subject providing data. 1-30.
 - activity: Identifies the activity for the measurement
-  1. WALKING
-  2. WALKING_UPSTAIRS
-  3. WALKING_DOWNSTAIRS
-  4. SITTING
-  5. STANDING
-  6. LAYING
+  - WALKING
+  - WALKING_UPSTAIRS
+  - WALKING_DOWNSTAIRS
+  - SITTING
+  - STANDING
+  - LAYING
 - The remaining columns are described in the source data section below.
 
 ###About the Source data:
