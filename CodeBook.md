@@ -1,6 +1,6 @@
 ##CodeBook for the Getting and Cleaning Data Programming Assignment
 
-##About the Summary Data in HAR_MEANS.csv:
+###About the Summary Data in HAR_MEANS.csv:
 
 HAR_MEANS.csv is the summary data set containing the means of the merged data columns. 
 
