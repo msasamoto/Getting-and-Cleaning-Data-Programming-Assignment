@@ -130,5 +130,5 @@ names(HAR_MEANS) <- names(HAR_MEAN_SD)
 
 #export the data frame. Exclude the row names:
 
-write.csv(HAR_MEANS, paste(mainPath, "HAR_MEANS.csv", sep = ""), row.names = F)
+write.table(HAR_MEANS, paste(mainPath, "HAR_MEANS.txt", sep = ""), row.names = F)
 
